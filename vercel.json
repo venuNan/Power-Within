@@ -1,0 +1,8 @@
+{
+    "builds": [
+        {
+            "src" : "./auto_short_upload.py",
+            "use" : "@vercel/python"
+        }
+    ]
+}
